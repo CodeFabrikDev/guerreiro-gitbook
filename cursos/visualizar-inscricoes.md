@@ -1,0 +1,2 @@
+# 🟣 Visualizar inscrições
+

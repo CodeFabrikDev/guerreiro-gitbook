@@ -1,0 +1,2 @@
+# 🟠 Registrar venda local
+
