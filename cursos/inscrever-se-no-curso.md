@@ -17,3 +17,9 @@
 * Clicando em alguma das opções, é possivel ver detalhes do curso;
 
 <figure><img src="../.gitbook/assets/Detalhes.png" alt="" width="375"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Caso o curso esteja com poucas vagas, um número exato será exibido com a quantidade de vagas disponíveis.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Detalhes - Últimas Vagas.png" alt="" width="375"><figcaption></figcaption></figure>
