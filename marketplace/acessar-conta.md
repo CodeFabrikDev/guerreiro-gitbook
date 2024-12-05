@@ -1,10 +1,11 @@
 # 🟤 Acessar conta
 
-Como acessar minha conta?
+## Como acessar minha conta?
 
-* Acesse o aplicativo e clique em `Entrar na minha conta`;
+* &#x20;Insira os dados de acesso solicitados pelo sistema;
+* Clique em `Entrar na minha conta`.
 
-<figure><img src="../.gitbook/assets/Login e Cadastro (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Login e Cadastro (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * Você será redirecionado para a tela acesso;
 
