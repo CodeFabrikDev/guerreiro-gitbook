@@ -22,6 +22,7 @@
 
 * [🟠 Acessar conta](clinicas/acessar-conta.md)
 * [🟠 Recuperar acesso](clinicas/recuperar-acesso.md)
+* [🟠 Agendar consulta](clinicas/agendar-consulta.md)
 * [🟡 Controle de agenda do Profissional](clinicas/controle-de-agenda-do-profissional.md)
 * [🟡 Gerenciamento de indisponibilidades do Profissional](clinicas/gerenciamento-de-indisponibilidades-do-profissional.md)
 * [🟡 Controle de pacientes do Profissional](clinicas/controle-de-pacientes-do-profissional/README.md)
